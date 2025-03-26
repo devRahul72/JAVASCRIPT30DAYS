@@ -9,6 +9,6 @@ console.log("sum print",sum);
 console.log("sub print",sub);
 console.log("mul print",mul);
 console.log("div print",div);   
-console.log("remider print",remider);
+console.log("remider print",remider);c
 
 
