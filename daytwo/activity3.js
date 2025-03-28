@@ -1,3 +1,5 @@
+// Activity 3: Comparison Operators;
+//test 3
 let max=4;
 let min=3;
 if(max>min){
@@ -6,7 +8,8 @@ if(max>min){
 else{
     console.log("min is greater than max");
 }
-
+//test 4;
+//
 let humanage=20;
 let dogage=20;
 if(humanage>=dogage){
@@ -15,6 +18,8 @@ if(humanage>=dogage){
 else{
     console.log("dogage is greater than humanage");
 }
+//test 5;
+// used == operator to check if two values are equal;   
 
 let x=20;
 let y=30;
@@ -24,6 +29,8 @@ if(x==y){
 else{
     console.log("x is not equal to y");
 }
+//test 6;
+// used === operator to check if two values are equal;  
 let a=10;
 let b=20;
 if(a===b){

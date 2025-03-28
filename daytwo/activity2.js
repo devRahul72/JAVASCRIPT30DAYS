@@ -1,3 +1,5 @@
+// This is a simple program that adds two numbers and prints the result;
+// //test 2;
 let num1=45;
 let num2=65;
 

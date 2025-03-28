@@ -1,3 +1,5 @@
+//test 14;
+// used ternery operator to check if x is less than y
 let x=20;
 let y=10;
 let result=(x<y)?"x is less than y":"x is greater than y";
