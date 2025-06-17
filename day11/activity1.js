@@ -17,7 +17,7 @@ const myPromise2 = new Promise(function(resolve, reject) {
     
     setTimeout(function() {
       reject("❌ Promise rejected after 1 second!");
-    }, 1000); // 1000 milliseconds = 1 second
+    }, 2000); // 1000 milliseconds = 1 second
   });
   
   myPromise2.then(function(message) {

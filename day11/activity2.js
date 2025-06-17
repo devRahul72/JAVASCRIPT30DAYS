@@ -23,7 +23,7 @@ function connectToServer() {
     return new Promise(function(resolve, reject) {
       setTimeout(function() {
         console.log("📊 Processing data...");
-        resolve("✅ Data processed successfully!");
+        reject("✅ no Data processed successfully!");
       }, 1000);
     });
   }

@@ -4,6 +4,7 @@ var x="hello";
 var c=null;
 var y=undefined;
 
+
 console.log(a);     
 console.log(b); 
 console.log(x);

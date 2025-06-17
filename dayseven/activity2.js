@@ -21,4 +21,5 @@ const book = {
 book.updateYear(2024);
 
 // Log the updated book object
+console.log(book.getDetails());
 console.log(book);
